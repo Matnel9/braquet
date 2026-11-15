@@ -1,0 +1,13 @@
+{
+ "version": "1.0.1",
+ "notes": "Version de test : la mise à jour automatique fonctionne.",
+ "page": "https://github.com/Matnel9/braquet/tree/main/versions",
+ "win": {
+  "url": "https://raw.githubusercontent.com/Matnel9/braquet/main/versions/Braquet-Installation-1.0.1.exe",
+  "sha256": "147d651c8f064b9505752f3d9bd3540c781dcdc607d7cbe1dbe2aba4b942f3e1",
+  "size": 75023723
+ },
+ "mac": {
+  "url": "https://raw.githubusercontent.com/Matnel9/braquet/main/versions/Braquet-Mac-1.0.1.zip"
+ }
+}
